@@ -1,5 +1,5 @@
 {
-  "name": "thecoder/laravel-monolog-telegram",
+  "name": "amirnajmi79/laravel-monolog-telegram",
   "description": "Telegram Handler for Monolog",
   "keywords": [
     "log",
@@ -27,7 +27,7 @@
     }
   },
   "require": {
-    "monolog/monolog": "^1.0|^2.0",
+    "monolog/monolog": "^1.0|^2.0|^3.0",
     "ext-curl": "*"
   }
 }
