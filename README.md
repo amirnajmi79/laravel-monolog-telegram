@@ -11,7 +11,7 @@ monolog-telegram
 Install using composer:
 
 ```bash
-composer require thecoder/laravel-monolog-telegram  
+composer require amirnajmi79/laravel-monolog-telegram  
 ```
 
 # Usage
